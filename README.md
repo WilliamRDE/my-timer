@@ -1,3 +1,3 @@
 # my-timer
 
-I deloveped my first timer using only JavaScript, CSS and HTML
+I developed my first timer using only JavaScript, CSS and HTML
